@@ -1,7 +1,7 @@
 # Single-UAV Mission Planning with a Genetic Algorithm
 
 **Artificial Intelligence – BSCS 5 · Assignment 2 · Bahria University Lahore Campus**
-**Author:** [hariswasim617](https://github.com/hariswasim617) – [Roll No]
+**Author:** [Usman Abid](https://github.com/usmanabid0606) – [03-134242-064]
 
 A Genetic Algorithm (written from scratch in Python) that finds the **deployment position, waypoint
 route, speeds and sensor activation schedule** of **1 drone** surveying a **50 x 50 hazard grid**
